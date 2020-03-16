@@ -6,28 +6,18 @@ In this repository, you'll find everything from the online Cassandra Developer W
 - Hnds-on exercises
 Feel free to bookmark this page for future reference!
 
-<img src="https://s3.amazonaws.com/datastaxtraining/CaaS/CQLSplash.pn" height="200" />
+<img src="https://s3.amazonaws.com/datastaxtraining/CaaS/CQLSplash.png" height="200" />
 
 
-## Reference links
-
-| Duration  | Title
-|---|---|
-| Crawler | [Starwars Intro](https://github.com/DataStax-Academy/)  |
-| 120 minutes | [Cassandra Data Modeling](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Data%20Modeling.pdf)  |
-| 90 minutes | [Cassandra Application Development](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Application%20Development.pdf)  |
-
-
-## Bootstraping
+## Available Materials
 
 | Duration  | Title
 |---|---|
-| 90 minutes  | [Core Cassandra](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Core%20Cassandra.pdf)  |
-| 120 minutes | [Cassandra Data Modeling](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Data%20Modeling.pdf)  |
-| 90 minutes | [Cassandra Application Development](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Application%20Development.pdf)  |
+| Starwars Crawler | [Starwars Intro](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/crawler)  |
+| Bootstraping | [Exercise 0](https://github.com/DataStax-Academy/cassandra-workshop-online/blob/master/exercises/0_-_Bootstraping.md)  |
+| Creating Astra Instance| [Exercise 1](https://github.com/DataStax-Academy/cassandra-workshop-online/blob/master/exercises/1_-_Create_Astra_Instance.md)  |
+| Notebooks | [Exercise 2 to 7](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/notebooks)  |
 
-
-## Create your Astra Instance
-
-## Other Exercices
+| Source codes | [JAVA](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/java), [Python](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/python) [NodeJs](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/node-js) |
+| Content | [Slides](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/slides/presentation.pdf)  |
 
