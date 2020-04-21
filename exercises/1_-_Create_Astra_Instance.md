@@ -1,4 +1,4 @@
-# Exercice 1 - Create Astra instance
+# Exercise 1 - Create Astra instance
 
 
 Access to the `ASTRA` service on url [https://astra.datastax.com](https://astra.datastax.com/)
