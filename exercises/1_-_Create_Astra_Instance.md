@@ -48,7 +48,8 @@ View your database. It may take 2-3 minutes for your database to spin up. You wi
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/05.png" height="300" />
 
 
-Once Database is ready you should see the following home page :
+Once Database is ready you should see the following home page:
+
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/06.png" height="100" />
 
 
