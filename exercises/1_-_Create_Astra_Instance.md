@@ -53,13 +53,12 @@ Once Database is ready you should see the following home page:
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/06.png" height="100" />
 
 
-Let’s review the database you have configured. In the box on the top-left side of the window, you can see the database and keyspace name metadata. The box on the top-right describes the size and location of your database. The lower-left box shows your estimated cost. Once Apollo initializes the database completely, the lower-right box will have connection details.
+Let’s review the database you have configured. In the box on the top-left side of the window, you can see the database and keyspace name metadata. The box on the top-right describes the size and location of your database. The lower-left box shows your estimated cost. Once Astra initializes the database completely, the lower-right box will have connection details.
 
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/07.png" height="100" />
 
 
 ### Open DataStax Studio
-
 
 You can click on `Launch Developer Studio` blue button to start the tool. Please enter the credentials you used for Astra instance creation.
 
