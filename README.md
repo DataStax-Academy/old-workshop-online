@@ -3,7 +3,8 @@ Welcome to the Online Cassandra Developer Workshop
 
 In this repository, you'll find everything from the online Cassandra Developer Workshop:
 - Materials used during presentations
-- Hnds-on exercises
+- Hands-on exercises
+
 Feel free to bookmark this page for future reference!
 
 <img src="https://s3.amazonaws.com/datastaxtraining/CaaS/CQLSplash.png" height="200" />
