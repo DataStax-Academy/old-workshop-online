@@ -16,7 +16,7 @@ Feel free to bookmark this page for future reference!
 |---|---|
 | **Introduction** | [Our nice starwars crawler](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/crawler) |
 | **Source codes** | Code [JAVA](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/java), Code [Python](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/python) Code [NodeJs](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/source-code/node-js) |
-| **Presentation** | [Here are the Slides](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/slides/presentation.pdf)  |
+| **Presentation** | [Here are the Slides](https://github.com/DataStax-Academy/cassandra-workshop-online/tree/master/slides/Presentation.pdf)  |
 
 ## Exercises
 
